@@ -10,11 +10,11 @@ Please keep exact template of rows below, including the comma separating the ite
 
 ### Tools Setup
 - [x] Install course tools (see list and links in the course instructions document), and have a github user name with course team aceess
-- [ ] `Fork` (actually `Create`) the [course repository](https://github.com/jce-il/nand2tetris24a) to your account
-  - [ ] Creation changes: make sure to keep the original repository name and also to make it private
-- [ ] Apply other repository settings:
-  - [ ] Settings -> Access: Collaborators and Teams -> Manage Access -> add your collaborator
-- [ ] `Clone` the repository to your machine, and:
+- [x] `Fork` (actually `Create`) the [course repository](https://github.com/jce-il/nand2tetris24a) to your account
+  - [x] Creation changes: make sure to keep the original repository name and also to make it private
+- [x] Apply other repository settings:
+  - [x] Settings -> Access: Collaborators and Teams -> Manage Access -> add your collaborator
+- [x] `Clone` the repository to your machine, and:
   - Open the repository folder with your IDE (in VSCode, allow installing the suggested course extentions, and examine the suggested `./vscode/settings.json`)
   - Install needed python packages, e.g., run in the repository folder: `python -m pip install -r requirements.txt`
 
