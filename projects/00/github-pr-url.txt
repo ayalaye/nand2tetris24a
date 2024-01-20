@@ -1,1 +1,1 @@
-https://github.com/<my user name>/introduction-to-github/pull/<pull number>
+https://github.com/ayalaye/skills-introduction-to-github/pull/1
