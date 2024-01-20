@@ -4,9 +4,9 @@ See also the course syllabus, submission instructions, and [wiki](https://github
 
 ### Developers Details
 Please keep exact template of rows below, including the comma separating the items.
-- Names: , 
-- ID#s: , 
-- Github usernames: ,
+- Names: Ayala Yerushalmi, 
+- ID#s: 324283712, 
+- Github usernames: ayalaye,
 
 ### Tools Setup
 - [x] Install course tools (see list and links in the course instructions document), and have a github user name with course team aceess
