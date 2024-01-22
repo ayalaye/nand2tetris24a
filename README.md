@@ -29,7 +29,7 @@ Please keep exact template of rows below, including the comma separating the ite
   - [x] 4. Create a new branch named: 00, and commit your work for every valuable step
     - Test that by now your local git history continas at leaset 3 commits (`git log`).
 - [x] Make sure you also updated the [Developer details](#developer-details) section above (and commit this change too!) 
-
+ 
 - [ ] Push your work to your remote github repository (`git push -u origin 00`), and watch the auto tester action results
 - [ ] Submit your work by openning a pull request to *your* `main` branch, update there, the submission details (ids, effort, comments to tester), and watch for the automatic grader reaction and notifications
 - [ ] Move to the next project by marging the last commits into `main` and opening a new branch `git switch -c 01`
